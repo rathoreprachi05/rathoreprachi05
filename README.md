@@ -19,3 +19,6 @@
 ## 🔥 Streak Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=rathoreprachi05&theme=tokyonight)](https://git.io/streak-stats)
+
+### 🗓️ Today is: <!--date--> updating... <!--/date-->
+
