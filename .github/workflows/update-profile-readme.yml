@@ -10,18 +10,22 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout Profile Repo
-      uses: actions/checkout@v3
+      - name: Checkout Profile Repo
+        uses: actions/checkout@v3
 
-    - name: Update README Date
-      run: |
-        TODAY=$(TZ=Asia/Kolkata date +"%A, %d %B %Y")
-        sed -i "s|<!--date-->.*<!--/date-->|<!--date--> $TODAY <!--/date-->|" README.md
+      - name: Update README Date
+        run: |
+          set -x
+          TODAY=$(TZ=Asia/Kolkata date +"%A, %d %B %Y")
+          sed -i "s|<!--date-->.*<!--/date-->|<!--date--> $TODAY <!--/date-->|" README.md
+          cat README.md
 
-    - name: Commit and Push
-      run: |
-        git config --global user.name "elliee-bot"
-        git config --global user.email "elliee@users.noreply.github.com"
-        git add README.md
-        git commit -m "🔄 Daily README refresh"
-        git push
+      - name: Commit and Push if Changed
+        run: |
+          git config --global user.name "elliee-bot"
+          git config --global user.email "elliee@users.noreply.github.com"
+          git diff --quiet README.md || (
+            git add README.md
+            git commit -m "🔄 Daily README refresh"
+            git push
+          )
