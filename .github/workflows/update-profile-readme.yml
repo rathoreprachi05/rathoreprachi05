@@ -12,6 +12,9 @@ jobs:
     steps:
       - name: Checkout Profile Repo
         uses: actions/checkout@v3
+        with:
+          persist-credentials: false  # Disable default GitHub token
+          fetch-depth: 0              # Needed for pushing
 
       - name: Update README Date
         run: |
@@ -21,11 +24,14 @@ jobs:
           cat README.md
 
       - name: Commit and Push if Changed
+        env:
+          TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           git config --global user.name "elliee-bot"
           git config --global user.email "elliee@users.noreply.github.com"
+          git remote set-url origin https://x-access-token:${TOKEN}@github.com/${{ github.repository }}
           git diff --quiet README.md || (
             git add README.md
             git commit -m "🔄 Daily README refresh"
-            git push
+            git push origin main
           )
