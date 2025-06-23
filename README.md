@@ -8,7 +8,7 @@
 🤝 Always open to **collaboration**, new ideas, and cool projects!
 
 📫 Reach me at: rathoreprachi021005@gmail.com  
-🔗 [GitHub](https://github.com/rathoreprachi05) | [LinkedIn](https://www.linkedin.com/in/your-link-here/)
+🔗 [GitHub](https://github.com/rathoreprachi05) | [LinkedIn](https://www.linkedin.com/in/prachirathore)
 
 ---
 
@@ -20,9 +20,9 @@
 
 ---
 
-## 🔥 Streak Stats
+### 🔥 Streak Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rathoreprachi05&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=rathoreprachi05&theme=tokyonight&hide_border=true)
 
 ---
 
