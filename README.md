@@ -26,4 +26,4 @@
 
 ---
 
-### 🗓️ Today is: <!--date--> Monday, 01 September 2025 <!--/date-->
+### 🗓️ Today is: <!--date--> Tuesday, 02 September 2025 <!--/date-->
