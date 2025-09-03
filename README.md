@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTl4cWd6cjJid25rZXhkcTlqZmppb2l2c3g5cWJvdWhwN3BudGswcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpY2b/giphy.gif" width="300px">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00FF7F&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Prachi.;Welcome+to+my+terminal.;Always+learning+and+growing." alt="Typing SVG" /></a>
 </div>
 
 ```bash
