@@ -1,30 +1,16 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTl4cWd6cjJid25rZXhkcTlqZmppb2l2c3g5cWJvdWhwN3BudGswcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpY2b/giphy.gif" width="300px">
-</div>
+### Hi there 👋 I'm Prachi Rathore
 
-```bash
-prachi@github:~$ whoami
+🎓 **B.Tech CSE'27 | Lovely Professional University**  
+💻 I code in **C/C++, Java, Python**, and love building web-based tools  
+🌐 Currently working on **chatbots**, **frontend dev**, and **problem solving**  
+🎨 Creative Head @ **Drive Dev LPU** and **Lepses LPU**  
+🛡️ Learning more about **Cybersecurity** and **Open Source**  
+🤝 Always open to **collaboration**, new ideas, and cool projects!
 
-> Prachi Rathore
-> B.Tech CSE Student @ Lovely Professional University
-> Status: Crafting web tools and diving deep into the cybersecurity rabbit hole 🛡️
+📫 Reach me at: rathoreprachi021005@gmail.com  
+🔗 [GitHub](https://github.com/rathoreprachi05) | [LinkedIn](https://www.linkedin.com/in/prachirathore)
 
-prachi@github:~$ cat ./passions.txt
-
-- 💻 C/C++, Java, Python
-- 🌐 Frontend Development & Chatbots
-- 🧩 Problem Solving (DSA)
-- 🛡️ Cybersecurity & Open Source
-
-prachi@github:~$ cat ./current-engagements.txt
-
-- 🎨 Creative Head @ Drive Dev LPU
-- 🎨 Creative Head @ Lepses LPU
-- 🤝 Open to collaboration on cool projects!
-
-prachi@github:~$ contact --me
-
-- 📫 rathoreprachi021005@gmail.com
+---
 
 ## 📊 GitHub Stats
 
