@@ -24,6 +24,26 @@ prachi@github:~$ cat ./current-engagements.txt
 
 prachi@github:~$
 
+## My Tech Arsenal ⚔️
+
+### Core Languages:
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+</p>
+
+### Technologies & Interests:
+<p align="left">
+  <img src="https://img.shields.io/badge/Frontend-HTML5%26CSS-orange?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chatbots-Dialogflow-yellow?style=for-the-badge&logo=dialogflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Learning-red?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20Source-Active-brightgreen?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 ![Prachi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rathoreprachi05&show_icons=true&theme=tokyonight)
