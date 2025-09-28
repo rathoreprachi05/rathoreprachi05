@@ -25,5 +25,3 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=rathoreprachi05&theme=tokyonight&hide_border=true)
 
 ---
-
-### 🗓️ Today is: <!--date--> Saturday, 20 September 2025 <!--/date-->
