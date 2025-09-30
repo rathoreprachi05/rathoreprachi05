@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Prachi Rathore
+### Hi there 👋 I'm Prachi Rathore
 
 🎓 **B.Tech CSE'27 | Lovely Professional University**  
 💻 I code in **C/C++, Java, Python**, and love building web-based tools  
